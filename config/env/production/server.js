@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-    url: env('https://boiling-earth-44150.herokuapp.com/'),
+    url: env('MY_HEROKU_URL'),
 })
